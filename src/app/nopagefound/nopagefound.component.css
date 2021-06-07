@@ -36,7 +36,7 @@ Error Page
 .error-box {
     height: 100%;
     position: fixed;
-    background: url(../../../assets/images/background/error-dragon.jpg) no-repeat center center rgb(255, 255, 255);
+    background: url(../../assets/images/background/error-dragon.jpg) no-repeat center center rgb(255, 255, 255);
     width: 100%;
 }
 
